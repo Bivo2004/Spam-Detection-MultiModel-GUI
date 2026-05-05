@@ -1,23 +1,28 @@
 # Spam Detection System (Multi-Model + GUI)
+**Grade: A+ | Egyptian E-Learning University (EELU)**
 
-### Team Members
-* Bevnoty Mamdouh Beshay (2300536)
-* Andrew Ashraf Ibrahim (2300540)
-* Mohamed Mostafa Mohamed Mostafa Elshamy (2300487)
-* Mohamed Ahmed Mohamed Ahmed Taha Smaha (2300531)
-* Amr Danny Aly (2300515)
+## 👥 Team & Leadership
+* **Project Lead:** Bevnoty Mamdouh Beshay 
+* **Team Members:**  Andrew Ashraf Ibrahim, Mohamed Mostafa, Mohamed Ahmed, Amr Danny Aly
 
 ## 1. Description
-This project classifies messages into **Spam** or **Not Spam** using five distinct machine learning algorithms. It features an interactive GUI for real-time testing and compares model performance using confusion matrices.
+This project was developed for EELU as a comprehensive study of NLP classification. We built a system that identifies spam using five distinct machine learning algorithms and an interactive desktop interface.
 
-## 2. Technologies Used
-* **Languages**: Python
-* **Libraries**: Pandas, Scikit-learn, Matplotlib, Seaborn, Tkinter, Joblib
+## 2. Objectives
+* Classify messages with high precision using Deep Learning and traditional ML.
+* Lead a collaborative team environment to unify disparate codebases into one Master GUI.
+* Provide visual performance evaluation via Confusion Matrices.
 
-## 3. Models Comparison
-We implemented and evaluated the following models:
-1. **Naive Bayes** (Acc: 96.68%)
-2. **Logistic Regression** (Acc: 96.77%)
-3. **Support Vector Machine** (Acc: 98.21%)
-4. **Random Forest** (Acc: 97.49%)
-5. **Deep Learning (MLP Neural Network)** (Acc: 98.48%)
+## 3. Results Overview
+Our system achieved industry-leading accuracy across all models, with the **Deep Learning (MLP)** module reaching a peak of **98.48%**.
+
+| Model | Accuracy |
+| :--- | :--- |
+| **MLP Neural Network** | **98.48%** |
+| SVM | 98.21% |
+| Random Forest | 97.49% |
+| Logistic Regression | 96.77% |
+| Naive Bayes | 96.68% |
+
+### Unified Master GUI
+![GUI](images/image_581093.png)
