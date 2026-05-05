@@ -23,6 +23,3 @@ Our system achieved industry-leading accuracy across all models, with the **Deep
 | Random Forest | 97.49% |
 | Logistic Regression | 96.77% |
 | Naive Bayes | 96.68% |
-
-### Unified Master GUI
-![GUI](images/image_581093.png)
