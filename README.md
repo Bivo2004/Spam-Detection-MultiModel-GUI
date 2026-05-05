@@ -21,10 +21,3 @@ We implemented and evaluated the following models:
 3. **Support Vector Machine** (Acc: 98.21%)
 4. **Random Forest** (Acc: 97.49%)
 5. **Deep Learning (MLP Neural Network)** (Acc: 98.48%)
-
-## 4. Visual Results
-### Confusion Matrices
-![Performance](images/1000431454.jpg)
-
-### GUI Interface
-![GUI](images/image_581093.png)
